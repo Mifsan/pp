@@ -2,8 +2,6 @@
 #include "MonteCarloPi.h"
 #include "Timer.h"
 #include "Messenger.h"
-#include <iostream>
-#include <exception>
 
 const size_t ARGUMENTS_COUNT = 3;
 const std::string HELP_FLAG = "--help";
